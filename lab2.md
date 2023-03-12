@@ -22,3 +22,6 @@
 ![](https://github.com/igorvrn/otus2/blob/main/007.png)
 #### Проверим соединение между PC-A и PC-C
 ![](https://github.com/igorvrn/otus2/blob/main/008.png)
+### Часть 2
+#### Выполним настройки безопасности на роутерах и проверим их работу
+![](https://github.com/igorvrn/otus2/blob/main/009.png)
