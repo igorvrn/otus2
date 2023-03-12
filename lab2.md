@@ -17,3 +17,6 @@
 ![](https://github.com/igorvrn/otus2/blob/main/003.png)
 ![](https://github.com/igorvrn/otus2/blob/main/004.png)
 #### Выполним команды show ip route на роутерах
+![](https://github.com/igorvrn/otus2/blob/main/005.png)
+![](https://github.com/igorvrn/otus2/blob/main/006.png)
+![](https://github.com/igorvrn/otus2/blob/main/007.png)
